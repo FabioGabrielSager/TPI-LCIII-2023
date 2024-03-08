@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sY9boBGx)
 # TPI "Chess"
 
 ## Introducción
@@ -53,10 +52,13 @@ en un entorno de desarrollo colaborativo como GitHub les brindará una experienc
 valiosa en el uso de herramientas profesionales ampliamente utilizadas en la
 industria.
 
-**_<span style="color:pink">Opcionalmente</span>_**, los alumnos podrán desarrollar (en un proyecto aparte) una
-interfaz gráfica que se integre al proyecto de BackEnd mediante apis Rest y que sea
-visualmente atractivo y fácil de usar, que permita a los jugadores interactuar de
-manera intuitiva con el tablero y las piezas. Dicha interfaz debe ser diseñada de
-manera profesional, con una disposición clara del tablero, una representación gráfica
-adecuada de las piezas y una respuesta rápida y precisa a las interacciones del
-usuario.
+## Colaboradores.
+
+> [!IMPORTANT]
+> Este no es el repositorio original del proyecto. El repositorio original es controlado por la institución educativa, y aún no he logrado que se haga público. Dada esta situación, he decidido resubir a este repositorio lo trabajado.
+
+Dicho esto, los colaboradores en la elaboración de este proyecto fueron:
+- [Julian Magnabosco](https://www.linkedin.com/in/julian-magnabosco-675631258/).
+- [Santiago Perez Orcellet](https://github.com/PerezOrcelletSantiago).
+- [Juan Cadenazzi](https://github.com/113931-Cadenazzi-Juan).
+- [Fabio Sager](https://github.com/113943-Sager-Fabio).
